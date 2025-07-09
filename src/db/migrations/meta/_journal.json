@@ -8,6 +8,13 @@
       "when": 1752000135530,
       "tag": "0000_certain_stark_industries",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752070895248,
+      "tag": "0001_remarkable_magus",
+      "breakpoints": true
     }
   ]
 }
