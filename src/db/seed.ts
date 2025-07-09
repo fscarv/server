@@ -15,7 +15,7 @@ await seed(db, schema).refine(f => {
         },
         questions: {
             count: 20,
-        }
+        },
     }
 })
 
