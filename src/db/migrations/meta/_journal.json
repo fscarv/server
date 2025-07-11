@@ -15,6 +15,20 @@
       "when": 1752070895248,
       "tag": "0001_remarkable_magus",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752260673658,
+      "tag": "0002_stale_mathemanic",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752260796906,
+      "tag": "0003_cool_tyger_tiger",
+      "breakpoints": true
     }
   ]
 }
